@@ -1,0 +1,9 @@
+$schema: 'https://moonrepo.dev/schemas/project.json'
+
+# omp-test-runner-watchdog-OzX7V0 — ranch component (Greek-named where descriptive).
+language: 'typescript'
+stack: 'backend'
+type: 'library'
+tags:
+  - 'ranch'
+  - 'component'
